@@ -1,2 +1,2 @@
-# SQL-Language
-Create, Insert, Modify and ETL on Database
+# SQL-quries
+Data warehousing skills for Relational Databases.
