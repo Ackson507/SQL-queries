@@ -1,2 +1,2 @@
-# SQL-quries
+# SQL-queries
 Data warehousing skills for Relational Databases...
